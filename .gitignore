@@ -2,3 +2,11 @@ node_modules/
 dist/
 *.zip
 .env
+
+# このリポジトリはLambdaコードのみを公開する方針のため、
+# スペック駆動開発のドキュメント・設定類はリモートに含めない(ローカルでは管理継続)
+.claude/
+.steering/
+CLAUDE.md
+docs/
+runbooks/
