@@ -1,0 +1,16 @@
+{
+  "aggregationPeriod": "2024-01",
+  "totalSales": 1900000,
+  "byCategory": [
+    { "category": "電子機器", "totalSales": 1450000 },
+    { "category": "家具", "totalSales": 450000 }
+  ],
+  "byDate": [
+    { "date": "2024-01-01", "totalSales": 515000 },
+    { "date": "2024-01-02", "totalSales": 630000 },
+    { "date": "2024-01-03", "totalSales": 140000 },
+    { "date": "2024-01-04", "totalSales": 415000 },
+    { "date": "2024-01-05", "totalSales": 200000 }
+  ],
+  "sourceCsvKey": "sales/sales_202401.csv"
+}
